@@ -160,3 +160,25 @@ FOURTH, choose the best approach and implement it with:
 - Comments for complex logic
 - Error handling if needed
 ```
+
+# Tell the AI to use the Tree-of-thought methodology. For example:
+```
+I want you to solve this problem using Tree of Thoughts methodology. Follow these steps:
+
+**Step 1: Initial Thought Generation**
+- Generate 3-5 different approaches or interpretations for solving this problem.
+
+**Step 2: Path Evaluation**
+- For each approach,evaluate its strengths and weaknesses.
+- Score each approach (1-5) for its promise.
+
+**Step 3: Deep Exploration**
+- Take the top 2-3 approaches and explore them further.
+- For each, generate the next logical steps.
+- Identify any dead ends or promising directions.
+
+**Step 4: Synthesis and Conclusion**
+- Compare the results from different branches.
+- Select the most coherent and correct solution.
+- Explain your final reasoning.
+```
