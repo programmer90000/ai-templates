@@ -133,3 +133,30 @@ I cannot provide a confident answer or functional code for this request.Implemen
 
 Confidence Level: High (>95%). This is a fundamental limitation of classical simulation.
 ```
+
+# Tell the AI to think about the answer step-by-step. For example:
+```
+I want you to approach this JavaScript problem methodically:
+
+FIRST, analyze the problem by considering:
+- What are the input constraints and types?
+- What's the expected output format?
+- What are the performance requirements (if any)?
+- What edge cases should be handled?
+
+SECOND, consider multiple solution approaches:
+- Brute force solution
+- Optimized solution
+- ES6+ modern approaches
+
+THIRD, evaluate each approach:
+- Time complexity
+- Space complexity
+- Readability
+- Compatibility requirements
+
+FOURTH, choose the best approach and implement it with:
+- Clear variable names
+- Comments for complex logic
+- Error handling if needed
+```
