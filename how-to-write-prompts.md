@@ -63,12 +63,13 @@ Detailed Explanation of How the Code Completes Its Objective
    · State Handled: All edge states (empty, typing, loading, error, success) are managed.
    · Reusable: The logic is encapsulated in a hook, usable in any component.
    · Robust: It handles the "race condition" of rapid typing and network failures gracefully.
+```
 
 ---
 
 Example 2: The Architecture Question
-
-You (the user) ask:
+```
+User asks:
 "We're building a mid-sized e-commerce app.Should we use Context API, Redux Toolkit, or React Query for state management? Justify your recommendation."
 
 AI Response (What you show as the example):
@@ -102,15 +103,17 @@ For a typical,maintainable mid-sized e-commerce app, I would recommend a hybrid 
 This separates concerns cleanly, uses each tool for its strengths, and creates a foundation that scales.
 
 Confidence Level: Medium-High (>80%). This is a consensus "modern best practice," but the final choice can be team-dependent. I recommend reviewing the specific complexity of your cart and checkout flows.
+```
 
 ---
 
 Example 3: The "I Don't Know" Scenario
 
-You (the user) ask:
+```
+User asks:
 "Implement a quantum computing simulation for factorizing large integers using Shor's algorithm in a React component."
 
-AI Response (What you show as the example):
+AI Response:
 
 Reasoning Step-by-Step
 
@@ -129,3 +132,4 @@ Final Answer:
 I cannot provide a confident answer or functional code for this request.Implementing Shor's algorithm for large integers is not possible in a browser environment with current technology. For educational simulations on very small numbers, I would strongly recommend using dedicated, optimized quantum simulation libraries (not written in pure JS) and have a React frontend interact with a specialized backend.
 
 Confidence Level: High (>95%). This is a fundamental limitation of classical simulation.
+```
