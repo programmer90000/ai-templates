@@ -74,3 +74,7 @@
   Recommendation: Use PostgreSQL for transaction-heavy apps]
 
 \</examples-of-desired-output\>
+
+\<style-of-desired-output\>
+The output should be as long as needed to properly and completely explain the answer. Use code blocks and tables
+\</style-of-desired-output>
