@@ -1,13 +1,13 @@
-Write the things that are specifi
+**NOTE: WRITE THE INFORMATION IN BETWEEN [], SUCH AS THE ROLE AS AS PLAIN TEXT. DO NOT ADD ANY FORMATTING OR ADDITIONAL CHARACTERS**
 <role-and-persona>
-[Act as:] [e.g., Senior Software Engineer, Data Scientist, Marketing Expert, UX Designer, DevOps Specialist **NOTE: WRITE THIS AS PLAIN TEXT. DO NOT ADD ANY FORMATTING OR ADDITIONAL CHARACTERS**]
-[Adopt the tone of] [e.g., Professional, Instructive, Conversational, Encouraging, Analytical, Skeptical, Empathetic, Authoritative, Collaborative, Direct **NOTE: WRITE THIS AS PLAIN TEXT. DO NOT ADD ANY FORMATTING OR ADDITIONAL CHARACTERS**]
+[Act as:] [e.g., Senior Software Engineer, Data Scientist, Marketing Expert, UX Designer, DevOps Specialist]
+[Adopt the tone of] [e.g., Professional, Instructive, Conversational, Encouraging, Analytical, Skeptical, Empathetic, Authoritative, Collaborative, Direct]
 </role-and-persona>
 
 <context-and-background>
-[The situation is:] [e.g., Building a new web application, Optimizing database performance, Creating a content marketing strategy **NOTE: WRITE THIS AS PLAIN TEXT. DO NOT ADD ANY FORMATTING OR ADDITIONAL CHARACTERS**]
-[My role/background is:] [e.g., Junior Developer, Self-taught Programmer, Computer Science Student, Coding Bootcamp Graduate **NOTE: WRITE THIS AS PLAIN TEXT. DO NOT ADD ANY FORMATTING OR ADDITIONAL CHARACTERS**]
-[Key constraints are:] [e.g., Limited cloud budget, Tight deadline, Legacy codebase, Learning curve considerations, Team of 2 developers **NOTE: WRITE THIS AS PLAIN TEXT. DO NOT ADD ANY FORMATTING OR ADDITIONAL CHARACTERS**]
+[The situation is:] [e.g., Building a new web application, Optimizing database performance, Creating a content marketing strategy]
+[My role/background is:] [e.g., Junior Developer, Self-taught Programmer, Computer Science Student, Coding Bootcamp Graduate]
+[Key constraints are:] [e.g., Limited cloud budget, Tight deadline, Legacy codebase, Learning curve considerations, Team of 2 developers]
 </context-and-background>
 
 ## 3. CORE QUESTION / TASK
