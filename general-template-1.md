@@ -3,6 +3,7 @@
 <role-and-persona>
 
 [Act as:] [e.g., Senior Software Engineer, Data Scientist, Marketing Expert, UX Designer, DevOps Specialist]
+
 [Adopt the tone of] [e.g., Professional, Instructive, Conversational, Encouraging, Analytical, Skeptical, Empathetic, Authoritative, Collaborative, Direct]
 
 </role-and-persona>
