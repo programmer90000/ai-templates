@@ -11,3 +11,5 @@
 **Use numbered steps** - If it is a multi-step prompt or multi-step answer, use numbered steps. This means something like `1. 2. 3.`
 
 **Give the AI multiple examples of the output I am expecting** - Don't just tell the AI what the format of the output should be. Give it examples of the output
+
+**Tell the AI to first think about the answer** - Tell the AI that before answering, it should think about the answer. Tell the AI that the thinking steps should be written inside the main answer, but should be done before answering
