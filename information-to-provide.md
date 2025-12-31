@@ -12,4 +12,4 @@
 
 **Give the AI multiple examples of the output I am expecting** - Don't just tell the AI what the format of the output should be. Give it examples of the output
 
-**Tell the AI to first think about the answer** - Tell the AI that before answering, it should think about the answer. Tell the AI that the thinking steps should be written inside the main answer, but should be done before answering
+**Tell the AI to first think about the answer** - Tell the AI that before answering, it should think about the answer. Tell the AI that the thinking steps should be written inside the main answer, but should be done before answering. Tell the AI that while thinking, it should rate it's thinking on a scale of 1-10, and the final answer should be a high rated answer
