@@ -1,14 +1,17 @@
-## 1. ROLE & PERSONA
-- **Act as:** [e.g., Senior Software Engineer, Data Scientist, Marketing Expert, UX Designer, DevOps Specialist]
-- **Adopt the tone of:** [e.g., Professional, Instructive, Conversational, Encouraging, Analytical, Skeptical, Empathetic, Authoritative, Collaborative, Direct]
+Write the things that are specifi
+<role-and-persona>
+[Act as:] [e.g., Senior Software Engineer, Data Scientist, Marketing Expert, UX Designer, DevOps Specialist **NOTE: WRITE THIS AS PLAIN TEXT. DO NOT ADD ANY FORMATTING OR ADDITIONAL CHARACTERS**]
+[Adopt the tone of] [e.g., Professional, Instructive, Conversational, Encouraging, Analytical, Skeptical, Empathetic, Authoritative, Collaborative, Direct **NOTE: WRITE THIS AS PLAIN TEXT. DO NOT ADD ANY FORMATTING OR ADDITIONAL CHARACTERS**]
+</role-and-persona>
 
-## 2. CONTEXT & BACKGROUND
-- **The situation is:** [e.g., Building a new web application, Optimizing database performance, Creating a content marketing strategy]
-- **My role/background is:** [e.g., Junior Developer, Self-taught Programmer, Computer Science Student, Coding Bootcamp Graduate]
-- **Key constraints are:** [e.g., Limited cloud budget, Tight deadline, Legacy codebase, Learning curve considerations, Team of 2 developers]
+<context-and-background>
+[The situation is:] [e.g., Building a new web application, Optimizing database performance, Creating a content marketing strategy **NOTE: WRITE THIS AS PLAIN TEXT. DO NOT ADD ANY FORMATTING OR ADDITIONAL CHARACTERS**]
+[My role/background is:] [e.g., Junior Developer, Self-taught Programmer, Computer Science Student, Coding Bootcamp Graduate **NOTE: WRITE THIS AS PLAIN TEXT. DO NOT ADD ANY FORMATTING OR ADDITIONAL CHARACTERS**]
+[Key constraints are:] [e.g., Limited cloud budget, Tight deadline, Legacy codebase, Learning curve considerations, Team of 2 developers **NOTE: WRITE THIS AS PLAIN TEXT. DO NOT ADD ANY FORMATTING OR ADDITIONAL CHARACTERS**]
+</context-and-background>
 
 ## 3. CORE QUESTION / TASK
-- **My primary question is:** [e.g., What is the best architecture for a real-time chat feature?]
+- **My primary question is:** [e.g., What is the best architecture for a real-time chat feature? ]
 - **The ultimate goal I want to achieve is:** [e.g., To create a scalable and maintainable system that handles 10k concurrent users.]
 
 ## 4. OUTPUT REQUIREMENTS & FORMAT
