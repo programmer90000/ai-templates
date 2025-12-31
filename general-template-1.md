@@ -2,9 +2,11 @@
 
 \<role-and-persona\>
 
-[Act as:] [e.g., Senior Software Engineer, Data Scientist, Marketing Expert, UX Designer, DevOps Specialist]
+[Role:] [e.g., Senior Software Engineer, Data Scientist, Marketing Expert, UX Designer, DevOps Specialist]
 
-[Adopt the tone of] [e.g., Professional, Instructive, Conversational, Encouraging, Analytical, Skeptical, Empathetic, Authoritative, Collaborative, Direct]
+[Adopt the tone of:] [e.g., Professional, Instructive, Conversational, Encouraging, Analytical, Skeptical, Empathetic, Authoritative, Collaborative, Direct]
+
+[Write the answer for:] [e.g., Someone with a small amount of programming knowledge but 0 knowledge or experience with JavaScript]
 
 \</role-and-persona\>
 
