@@ -6,6 +6,8 @@
 
 **Tell the AI the expected format of the output** - Tell the AI what the output should contain, such as code blocks, tables or graphs
 
+**Tell the AI the expected length of the output** - Tell the AI how long the response should be
+
 **Use numbered steps** - If it is a multi-step prompt or multi-step answer, use numbered steps. This means something like `1. 2. 3.`
 
 **Give the AI multiple examples of the output I am expecting** - Don't just tell the AI what the format of the output should be. Give it examples of the output
