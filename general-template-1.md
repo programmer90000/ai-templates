@@ -18,7 +18,6 @@
 
 \</context-and-background\>
 
-## 3. CORE QUESTION / TASK
 \<task\>
 
 [My primary question is] [e.g., What is the best architecture for a real-time chat feature? ]
@@ -27,37 +26,49 @@
 
 \</task\>
 
-## 4. OUTPUT REQUIREMENTS & FORMAT
-- **Please structure your response as:** [e.g., Step-by-step guide, Comparative analysis table, JSON schema, Code block with comments, Decision matrix, SWOT analysis, Flowchart, Executive summary, Before-After comparison, Priority matrix, Pros-Cons-Recommendation table, Architecture diagram description, FAQ format, Tutorial with examples]
-- **The key elements to include are:** [e.g., Pros and cons, Code snippets, Recommended libraries, Risk assessment, Implementation timeline, Common pitfalls to avoid, Performance considerations, Security implications, Testing strategies, Debugging tips, Real-world analogies]
-- **The desired length is:** [e.g., Under 500 words, A detailed 5-step plan, Single-page report, Comprehensive analysis (1000+ words), Bullet-point summary, Quick reference cheat sheet, Detailed tutorial with screenshots, 3-paragraph executive briefing, 10-minute read]
+\<output-requirements-and-format\>
 
-## 5. PROCESS & METHODOLOGY
-- **Before answering, please:** [e.g., Evaluate the top 3 alternatives, Consider scalability and cost, Break down the problem into core components, Assess technical debt implications]
-- **Use the following framework:** [e.g., 1. Problem Analysis -> 2. Solution Research -> 3. Comparative Evaluation -> 4. Implementation Strategy -> 5. Risk Mitigation]
+[Please structure your response as:] [e.g., Step-by-step guide, Comparative analysis table, JSON schema, Code block with comments, Decision matrix, SWOT analysis, Flowchart, Executive summary, Before-After comparison, Priority matrix, Pros-Cons-Recommendation table, Architecture diagram description, FAQ format, Tutorial with examples]
 
-## 6. EXAMPLES OF DESIRED OUTPUT
-- **Here is an example of the style/format I'm looking for:**
-  A table
+[The key elements to include are:] [e.g., Pros and cons, Code snippets, Recommended libraries, Risk assessment, Implementation timeline, Common pitfalls to avoid, Performance considerations, Security implications, Testing strategies, Debugging tips, Real-world analogies]
+
+[The desired length is] [e.g., Under 500 words, A detailed 5-step plan, Single-page report, Comprehensive analysis (1000+ words), Bullet-point summary, Quick reference cheat sheet, Detailed tutorial with screenshots, 3-paragraph executive briefing, 10-minute read]
+
+\</output-requirements-and-format\>
+
+\<process-and-methodology\>
+
+[Before answering, please:] [e.g., Evaluate the top 3 alternatives, Consider scalability and cost, Break down the problem into core components, Assess technical debt implications]
+
+[Use the following framework:] [e.g., 1. Problem Analysis -> 2. Solution Research -> 3. Comparative Evaluation -> 4. Implementation Strategy -> 5. Risk Mitigation]
+
+\</process-and-methodology\>
+
+\<examples-of-desired-output\>
+
+[Here is an example of the style/format I'm looking for:]
+  [A table
   **Example Output:**
   | Column 1 | Column 2 | Column 3 |
   |----------|----------|----------|
   | Row 1 | Row 1 | Row 2 | Row 3 |
   | Row 2 | Row 1 | Row 2 | Row 3 |
-  | Row 3 | Row 1 | Row 2 | Row 3 |
+  | Row 3 | Row 1 | Row 2 | Row 3 |]
 
-  A step-by-step guide
+  [A step-by-step guide
   **Example Output:**
   Choose Authentication Method: Select JWT for stateless apps
   Set Up Security: Install bcrypt for password hashing
   Create Middleware: Build auth middleware to protect routes
-  Handle Tokens: Implement secure token storage and refresh
+  Handle Tokens: Implement secure token storage and refresh]
 
-  Pros-Cons-Recommendation
+  [Pros-Cons-Recommendation
   **Example Output**
   ✅ Pros: ACID compliance, rich features
   ❌ Cons: More complex setup
   MongoDB
   ✅ Pros: Flexible schema, easy scaling
   ❌ Cons: Less consistent
-  Recommendation: Use PostgreSQL for transaction-heavy apps
+  Recommendation: Use PostgreSQL for transaction-heavy apps]
+
+\</examples-of-desired-output\>
