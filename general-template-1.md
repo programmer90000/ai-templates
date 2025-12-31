@@ -11,8 +11,11 @@
 \<context-and-background\>
 
 [The situation is:] [e.g., Building a new web application, Optimizing database performance, Creating a content marketing strategy]
+
 [My role/background is:] [e.g., Junior Developer, Self-taught Programmer, Computer Science Student, Coding Bootcamp Graduate]
+
 [Key constraints are:] [e.g., Limited cloud budget, Tight deadline, Legacy codebase, Learning curve considerations, Team of 2 developers]
+
 \</context-and-background\>
 
 ## 3. CORE QUESTION / TASK
