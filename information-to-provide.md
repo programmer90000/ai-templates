@@ -4,4 +4,6 @@
 
 **Tell the AI how to respond** - Tell the AI the way it should respond, such as formal vs casual, friendly vs professional, enthusiastic vs calm, humorous vs serious
 
+**Tell the AI the expected format of the output** - Tell the AI what the output should contain, such as code blocks, tables or graphs
+
 **Give the AI multiple examples of the output I am expecting** - Don't just tell the AI what the format of the output should be. Give it examples of the output
