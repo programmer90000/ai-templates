@@ -1,4 +1,5 @@
 **NOTE: WRITE THE INFORMATION IN BETWEEN [], SUCH AS THE ROLE AS AS PLAIN TEXT. DO NOT ADD ANY FORMATTING OR ADDITIONAL CHARACTERS**
+
 <role-and-persona>
 [Act as:] [e.g., Senior Software Engineer, Data Scientist, Marketing Expert, UX Designer, DevOps Specialist]
 [Adopt the tone of] [e.g., Professional, Instructive, Conversational, Encouraging, Analytical, Skeptical, Empathetic, Authoritative, Collaborative, Direct]
