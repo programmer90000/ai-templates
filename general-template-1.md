@@ -19,8 +19,13 @@
 \</context-and-background\>
 
 ## 3. CORE QUESTION / TASK
-- **My primary question is:** [e.g., What is the best architecture for a real-time chat feature? ]
-- **The ultimate goal I want to achieve is:** [e.g., To create a scalable and maintainable system that handles 10k concurrent users.]
+\<task\>
+
+[My primary question is] [e.g., What is the best architecture for a real-time chat feature? ]
+
+[The ultimate goal I want to achieve is] [e.g., To create a scalable and maintainable system that handles 10k concurrent users.]
+
+\</task\>
 
 ## 4. OUTPUT REQUIREMENTS & FORMAT
 - **Please structure your response as:** [e.g., Step-by-step guide, Comparative analysis table, JSON schema, Code block with comments, Decision matrix, SWOT analysis, Flowchart, Executive summary, Before-After comparison, Priority matrix, Pros-Cons-Recommendation table, Architecture diagram description, FAQ format, Tutorial with examples]
