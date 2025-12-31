@@ -78,3 +78,7 @@
 \<style-of-desired-output\>
 The output should be as long as needed to properly and completely explain the answer. Use code blocks and tables
 \</style-of-desired-output>
+
+\<before-answering\>
+Before answering this prompt, think about the answer. The thinking should be displayed as part of the answer. To do this, write the heading `Thinking`. Under this header, write everything you are doing to think about the answer. Write down which information is missing which could help you produce a better answer. Spend as long as necessary to think about the answer. Grade each possible response you could give between 1-10. After this, choose the best response. Write the heading `Answer` and give the complete answer
+\</before-answering\>
