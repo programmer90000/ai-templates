@@ -1,18 +1,18 @@
 **NOTE: WRITE THE INFORMATION IN BETWEEN [], SUCH AS THE ROLE AS AS PLAIN TEXT. DO NOT ADD ANY FORMATTING OR ADDITIONAL CHARACTERS**
 
-<role-and-persona>
+\<role-and-persona\>
 
 [Act as:] [e.g., Senior Software Engineer, Data Scientist, Marketing Expert, UX Designer, DevOps Specialist]
 
 [Adopt the tone of] [e.g., Professional, Instructive, Conversational, Encouraging, Analytical, Skeptical, Empathetic, Authoritative, Collaborative, Direct]
 
-</role-and-persona>
+\</role-and-persona\>
 
-<context-and-background>
+\<context-and-background\>
 [The situation is:] [e.g., Building a new web application, Optimizing database performance, Creating a content marketing strategy]
 [My role/background is:] [e.g., Junior Developer, Self-taught Programmer, Computer Science Student, Coding Bootcamp Graduate]
 [Key constraints are:] [e.g., Limited cloud budget, Tight deadline, Legacy codebase, Learning curve considerations, Team of 2 developers]
-</context-and-background>
+\</context-and-background\>
 
 ## 3. CORE QUESTION / TASK
 - **My primary question is:** [e.g., What is the best architecture for a real-time chat feature? ]
