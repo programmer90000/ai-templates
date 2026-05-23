@@ -21,12 +21,19 @@
 \</context-and-background\>
 
 \<provided-files\>
+
 \<file path="src/index.js"\>
+
 console.log("Hello world");
+
 \</file\>
+
 \<\file path="styles/main.css"\>
+
 body { margin: 0; }
+
 \</file\>
+
 \</provided-files\>
 
 \<task\>
