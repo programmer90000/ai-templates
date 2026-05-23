@@ -22,6 +22,22 @@ Objective
 - Constraint 3
 \</constraints\>
 
+\<provided-files\>
+
+\<file path="src/index.js"\>
+
+console.log("Hello world");
+
+\</file\>
+
+\<file path="styles/main.css"\>
+
+body { margin: 0; }
+
+\</file\>
+
+\</provided-files\>
+
 \<to-do-this-i-want-to\>
 - Write down how the answer should structure what I want to do. For example, what file I should write first. What file I should write second
 \</to-do-this-i-want-to\>
