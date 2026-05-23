@@ -21,14 +21,14 @@
 \</context-and-background\>
 
 \<provided-files\>
-
-\</provided-files\>
 \<file path="src/index.js"\>
 console.log("Hello world");
 \</file\>
 \<\file path="styles/main.css"\>
 body { margin: 0; }
 \</file\>
+\</provided-files\>
+
 \<task\>
 
 [My primary question is] [e.g., What is the best architecture for a real-time chat feature? ]
