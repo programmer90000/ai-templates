@@ -28,7 +28,7 @@ console.log("Hello world");
 
 \</file\>
 
-\<\file path="styles/main.css"\>
+\<file path="styles/main.css"\>
 
 body { margin: 0; }
 
